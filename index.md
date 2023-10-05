@@ -39,8 +39,7 @@ We are located in the home directory and want to show the contents of the argume
 
 3.
 ![Image](cat3.png)
-
-
+We are located in the home directory and we are using cat to display the contents of en-us.txt. The result is Hello World! which is contained in en-us.txt. This is not an error. 
 
 
 
