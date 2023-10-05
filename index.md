@@ -1,4 +1,11 @@
-# Zoo wee mama!
-
-
-![Image](https://static.wikia.nocookie.net/doawk/images/d/dd/Diary_of_a_Wimpy_Kid217.jpg/revision/latest?cb=20190320011052)
+# First Github Page
+**This is bold text** 
+## This is a smaller heading
+> This is a blockquote
+* This is a list
+* Second item
+* Third item
+  
+Horizontal
+  --- 
+`print("inline code")  `
