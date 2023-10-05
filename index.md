@@ -4,7 +4,7 @@
 1.
 ![Image](cd1.png)
 
-We get this output because we used cd from the directory home/lecture1/messages. When using cd with no arguments, we navigate automatically to the home directory. This is not an error.
+We get this output because we used cd from the directory home/lecture1/messages. When using cd with no arguments, we navigate automatically to the root directory. This is not an error.
 
 2.
 ![Image](cd2.png)
